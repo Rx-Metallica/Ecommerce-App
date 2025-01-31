@@ -19,6 +19,7 @@ connectCloudinary()
 
 // Middlewares
 app.use(express.json())
+app.use(cors({ origin: "https://ecommerce-frontend-drab-tau.vercel.app" }));
 app.use(cors())
 
 // Api endpoints

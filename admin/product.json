@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Men's Stylish Jacket",
+      "description": "A stylish and warm jacket for men.",
+      "price": 2999,
+      "image": [
+        "https://via.placeholder.com/150?text=Image1",
+        "https://via.placeholder.com/150?text=Image2",
+        "https://via.placeholder.com/150?text=Image3",
+        "https://via.placeholder.com/150?text=Image4"
+      ],
+      "category": "Men",
+      "subCategory": "Winterwear",
+      "sizes": ["M", "S", "L", "XL", "XXL"],
+      "date": "2025-01-26T00:00:00Z",
+      "bestseller": true
+    },
+    {
+      "name": "Women's Elegant Top",
+      "description": "An elegant top perfect for casual and formal wear.",
+      "price": 1499,
+      "image": [
+        "https://via.placeholder.com/150?text=Image1",
+        "https://via.placeholder.com/150?text=Image2",
+        "https://via.placeholder.com/150?text=Image3",
+        "https://via.placeholder.com/150?text=Image4"
+      ],
+      "category": "Women",
+      "subCategory": "Topwear",
+      "sizes": ["M", "S", "L", "XL", "XXL"],
+      "date": "2025-01-26T00:00:00Z",
+      "bestseller": false
+    },
+    {
+      "name": "Kid's Cute Hoodie",
+      "description": "A cute hoodie to keep kids warm in winter.",
+      "price": 1999,
+      "image": [
+        "https://via.placeholder.com/150?text=Image1",
+        "https://via.placeholder.com/150?text=Image2",
+        "https://via.placeholder.com/150?text=Image3",
+        "https://via.placeholder.com/150?text=Image4"
+      ],
+      "category": "Kids",
+      "subCategory": "Winterwear",
+      "sizes": ["M", "S", "L", "XL"],
+      "date": "2025-01-26T00:00:00Z",
+      "bestseller": true
+    },
+    {
+      "name": "Men's Casual T-Shirt",
+      "description": "A comfortable and casual T-shirt for everyday wear.",
+      "price": 899,
+      "image": [
+        "https://via.placeholder.com/150?text=Image1",
+        "https://via.placeholder.com/150?text=Image2",
+        "https://via.placeholder.com/150?text=Image3",
+        "https://via.placeholder.com/150?text=Image4"
+      ],
+      "category": "Men",
+      "subCategory": "Topwear",
+      "sizes": ["M", "S", "L", "XL", "XXL"],
+      "date": "2025-01-26T00:00:00Z",
+      "bestseller": false
+    },
+    {
+      "name": "Women's Skinny Jeans",
+      "description": "Fashionable skinny jeans for women.",
+      "price": 2499,
+      "image": [
+        "https://via.placeholder.com/150?text=Image1",
+        "https://via.placeholder.com/150?text=Image2",
+        "https://via.placeholder.com/150?text=Image3",
+        "https://via.placeholder.com/150?text=Image4"
+      ],
+      "category": "Women",
+      "subCategory": "Bottomwear",
+      "sizes": ["M", "S", "L", "XL"],
+      "date": "2025-01-26T00:00:00Z",
+      "bestseller": true
+    },
+    {
+      "name": "Kid's Play Pants",
+      "description": "Comfortable pants for kids' playtime.",
+      "price": 999,
+      "image": [
+        "https://via.placeholder.com/150?text=Image1",
+        "https://via.placeholder.com/150?text=Image2",
+        "https://via.placeholder.com/150?text=Image3",
+        "https://via.placeholder.com/150?text=Image4"
+      ],
+      "category": "Kids",
+      "subCategory": "Bottomwear",
+      "sizes": ["M", "S", "L"],
+      "date": "2025-01-26T00:00:00Z",
+      "bestseller": false
+    }
+  ]
+  

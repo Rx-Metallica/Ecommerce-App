@@ -40,7 +40,7 @@ npm install
 ```
 
 Admin Panel
-``sh
+```sh
 cd ../admin
 npm install
 ```
@@ -65,7 +65,7 @@ npm start
 ```
 
 Admin Panel
-``sh
+```sh
 cd ../admin
 npm start
 ```
@@ -78,14 +78,17 @@ Admins can manage products & orders from the admin panel.
 
 🔗 API Endpoints (Backend)
 Endpoint	Method	Description
+```
 /api/auth/signup	POST	User signup
 /api/auth/login	POST	User login
 /api/products	GET	Fetch all products
 /api/products/:id	GET	Fetch product by ID
 /api/cart	POST	Add items to cart
 /api/orders	POST	Place an order
+```
 
 ⚙️ Technologies Used
+
 Frontend: React.js, Redux, Tailwind CSS
 Backend: Node.js, Express, MongoDB
 Authentication: JWT (JSON Web Tokens)

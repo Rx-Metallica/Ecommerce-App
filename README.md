@@ -90,10 +90,10 @@ npm start
 | `/api/orders`       | POST   | Place an order |
 
 ## ⚙️ Technologies Used
-- **Frontend**: React.js, Redux, Tailwind CSS
+- **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express, MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
-- **Payment**: Stripe or Razorpay
-- **Deployment**: Vercel / Netlify (Frontend), Render / Heroku (Backend)
+- **Payment**: Stripe and Razorpay
+- **Deployment**: Vercel
 
 💡 **Happy Coding!** 🎉
